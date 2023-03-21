@@ -1,4 +1,4 @@
-# MachineLearning Project - 1
+# MachineLearning Project - 1 ( CLASSIFICATION )
 
 Problem Definition : Predicting whether a patient has heart disease or not ?
 
